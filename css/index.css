@@ -1,0 +1,13 @@
+html { height: 100% }
+  body { height: 100%; margin: 0px; padding: 0px;text-align:center;}
+  
+  #nav {height:80px;width:100%; background-color:#ff5b5b;}
+    #nav h1{padding:13px; margin:0px; color:black;
+            font-family: sans-serif; position:relative; float:left; font-size: 48px; font-weight: bold; }
+    #nav a{padding:13px; margin:0px; position:relative; float:right; font-size: 48px;}
+  #map-canvas {margin:5%; height:40%; width:90%; 
+                border: 3px solid black; border-radius: 15px; }
+  #post-map{height:40%;width:100%;}
+    textarea {margin-left:15%; margin-right:15%; height:100px; width:70%;}
+    span {font-size:26px;}
+    input{height:40px; width:20%;}
