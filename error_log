@@ -1,0 +1,99 @@
+[18-Oct-2014 08:04:59 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'papyrust'@'localhost' (using password: YES) in /home2/papyrust/public_html/hooker/connect.php on line 2
+[18-Oct-2014 08:04:59 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/papyrust/public_html/hooker/connect.php on line 5
+[18-Oct-2014 08:05:00 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'papyrust'@'localhost' (using password: YES) in /home2/papyrust/public_html/hooker/connect.php on line 2
+[18-Oct-2014 08:05:00 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/papyrust/public_html/hooker/connect.php on line 5
+[18-Oct-2014 08:30:45 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[18-Oct-2014 08:30:45 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 7
+[18-Oct-2014 08:31:18 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[18-Oct-2014 08:31:18 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 7
+[18-Oct-2014 08:33:11 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[18-Oct-2014 08:33:11 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 8
+[18-Oct-2014 08:34:46 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 8
+[18-Oct-2014 08:41:02 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 8
+[18-Oct-2014 09:25:10 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 8
+[20-Oct-2014 21:27:45 America/Denver] PHP Fatal error:  Call to undefined function domxml_new_doc() in /home2/papyrust/public_html/hooker/phpsqlajax_genxml.php on line 5
+[20-Oct-2014 21:27:51 America/Denver] PHP Fatal error:  Call to undefined function domxml_new_doc() in /home2/papyrust/public_html/hooker/phpsqlajax_genxml.php on line 5
+[20-Oct-2014 21:27:54 America/Denver] PHP Fatal error:  Call to undefined function domxml_new_doc() in /home2/papyrust/public_html/hooker/phpsqlajax_genxml.php on line 5
+[20-Oct-2014 21:28:51 America/Denver] PHP Fatal error:  Call to undefined function domxml_new_doc() in /home2/papyrust/public_html/hooker/phpsqlajax_genxml.php on line 5
+[20-Oct-2014 22:11:37 America/Denver] PHP Notice:  Undefined index: hiddeninput in /home2/papyrust/public_html/hooker/insert.php on line 6
+[20-Oct-2014 22:11:37 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 8
+[20-Oct-2014 22:11:37 America/Denver] PHP Notice:  Undefined variable: user in /home2/papyrust/public_html/hooker/insert.php on line 12
+[20-Oct-2014 22:38:17 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 8
+[20-Oct-2014 22:38:17 America/Denver] PHP Notice:  Undefined variable: user in /home2/papyrust/public_html/hooker/insert.php on line 12
+[20-Oct-2014 22:40:48 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 9
+[20-Oct-2014 22:40:48 America/Denver] PHP Notice:  Undefined variable: user in /home2/papyrust/public_html/hooker/insert.php on line 13
+[20-Oct-2014 22:42:24 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 9
+[20-Oct-2014 22:42:24 America/Denver] PHP Notice:  Undefined variable: user in /home2/papyrust/public_html/hooker/insert.php on line 13
+[20-Oct-2014 22:44:24 America/Denver] PHP Notice:  Undefined variable: user in /home2/papyrust/public_html/hooker/insert.php on line 13
+[20-Oct-2014 22:54:33 America/Denver] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home2/papyrust/public_html/hooker/insert.php on line 7
+[20-Oct-2014 22:55:49 America/Denver] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home2/papyrust/public_html/hooker/insert.php on line 7
+[20-Oct-2014 23:01:03 America/Denver] PHP Notice:  Undefined variable: user in /home2/papyrust/public_html/hooker/insert.php on line 13
+[20-Oct-2014 23:09:28 America/Denver] PHP Notice:  Undefined variable: user in /home2/papyrust/public_html/hooker/insert.php on line 13
+[20-Oct-2014 23:46:24 America/Denver] PHP Notice:  Undefined variable: user in /home2/papyrust/public_html/hooker/insert.php on line 13
+[20-Oct-2014 23:49:30 America/Denver] PHP Notice:  Undefined variable: user in /home2/papyrust/public_html/hooker/insert.php on line 13
+[22-Oct-2014 08:15:09 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[22-Oct-2014 08:15:09 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[22-Oct-2014 08:15:09 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[22-Oct-2014 08:15:09 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[22-Oct-2014 08:15:09 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[22-Oct-2014 08:15:09 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
+[23-Oct-2014 18:49:13 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[23-Oct-2014 18:49:13 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[23-Oct-2014 18:49:13 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[23-Oct-2014 18:49:13 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[23-Oct-2014 18:49:13 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[23-Oct-2014 18:49:13 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
+[23-Oct-2014 18:49:14 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[23-Oct-2014 18:49:14 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[23-Oct-2014 18:49:14 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[23-Oct-2014 18:49:14 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[23-Oct-2014 18:49:14 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[23-Oct-2014 18:49:14 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
+[23-Oct-2014 18:49:17 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[23-Oct-2014 18:49:17 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[23-Oct-2014 18:49:17 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[23-Oct-2014 18:49:17 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[23-Oct-2014 18:49:17 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[23-Oct-2014 18:49:17 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
+[23-Oct-2014 18:49:33 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[23-Oct-2014 18:49:33 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[23-Oct-2014 18:49:33 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[23-Oct-2014 18:49:33 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[23-Oct-2014 18:49:33 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[23-Oct-2014 18:49:33 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
+[26-Oct-2014 15:04:57 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[26-Oct-2014 15:04:57 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[26-Oct-2014 15:04:57 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[26-Oct-2014 15:04:57 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[26-Oct-2014 15:04:57 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[26-Oct-2014 15:04:57 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
+[26-Oct-2014 18:15:05 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[26-Oct-2014 18:15:05 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[26-Oct-2014 18:15:05 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[26-Oct-2014 18:15:05 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[26-Oct-2014 18:15:05 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[26-Oct-2014 18:15:05 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
+[26-Oct-2014 22:42:53 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[26-Oct-2014 22:42:53 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[26-Oct-2014 22:42:53 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[26-Oct-2014 22:42:53 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[26-Oct-2014 22:42:53 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[26-Oct-2014 22:42:53 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
+[27-Oct-2014 18:24:57 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[27-Oct-2014 18:24:57 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[27-Oct-2014 18:24:57 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[27-Oct-2014 18:24:57 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[27-Oct-2014 18:24:57 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[27-Oct-2014 18:24:57 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
+[27-Oct-2014 18:24:58 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[27-Oct-2014 18:24:58 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[27-Oct-2014 18:24:58 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[27-Oct-2014 18:24:58 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[27-Oct-2014 18:24:58 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[27-Oct-2014 18:24:58 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
+[05-Nov-2014 22:06:30 America/Denver] PHP Notice:  Undefined index: user in /home2/papyrust/public_html/hooker/insert.php on line 6
+[05-Nov-2014 22:06:30 America/Denver] PHP Notice:  Undefined index: msg in /home2/papyrust/public_html/hooker/insert.php on line 7
+[05-Nov-2014 22:06:30 America/Denver] PHP Notice:  Undefined index: lat in /home2/papyrust/public_html/hooker/insert.php on line 8
+[05-Nov-2014 22:06:30 America/Denver] PHP Notice:  Undefined index: lng in /home2/papyrust/public_html/hooker/insert.php on line 9
+[05-Nov-2014 22:06:30 America/Denver] PHP Notice:  Undefined index: address in /home2/papyrust/public_html/hooker/insert.php on line 10
+[05-Nov-2014 22:06:30 America/Denver] PHP Notice:  Undefined index: amount in /home2/papyrust/public_html/hooker/insert.php on line 11
