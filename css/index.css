@@ -2,8 +2,9 @@ html { height: 100% }
   body { height: 100%; margin: 0px; padding: 0px;text-align:center;}
   
   
-  #map-canvas {margin:5%; height:40%; width:90%; 
-                border: 3px solid black; border-radius: 15px; }
+  #map-canvas {margin:10%; height:40%; width:80%; 
+                border: 3px solid black; border-radius: 500px; }
+                
   #post-map{height:40%;width:100%;}
     textarea {margin-left:15%; margin-right:15%; height:100px; width:70%;}
     span {font-size:26px;}
