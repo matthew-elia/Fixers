@@ -21,23 +21,20 @@
 
 <body>
 
-<div class="navbar navbar-inverse">
-    <h1>RVLVR</h1>
-    <a href="" class="glyphicon glyphicon-tree-conifer"></a>
+<div class="navbar">
+    <h1>handymen/handywomen. app.</h1>
 </div>
-	 
 <div id="map-canvas"></div>
-    	
 <div id="post-map">
     <form action="insert.php" method="post" id="usrform">
-    	<br>
   		<div id="coords"></div>	
 	    <input type="text" name="user" placeholder="name">
+	    <br><br>
 	    <textarea name="msg" form="usrform" placeholder="enter message here..."></textarea>
 	    <br><br>
 	    <span class="glyphicon glyphicon-usd"></span>
 	    <input type="text" name="amount" placeholder="amount">
-	    <br>
+	    <br><br>
 	    <input type="submit" class="btn btn-lg btn-danger">
     </form>
 </div>

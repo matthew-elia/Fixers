@@ -47,6 +47,7 @@ var lng = marker.getPosition().lng();
          
           
     document.getElementById("coords").innerHTML= '<input type="hidden" value="'+lat+'" name="lat">' + '<input type="hidden" value="'+lng+'" name="lng">' + '<input type="hidden" value="'+ z +'" name="address">';
+    
 
 google.maps.event.addListener(marker, "dragstart", function() {
         infowindow.close();

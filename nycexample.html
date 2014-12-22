@@ -27,7 +27,7 @@
           var point = new google.maps.LatLng(
               parseFloat(markers[i].getAttribute("lat")),
               parseFloat(markers[i].getAttribute("lng")));
-          var html ="<img src='http://static.squarespace.com/static/518d88a1e4b062fea3103106/t/5196b775e4b0724ab76f4c4b/1368831862548/Ash-Circle-Trans-Profile.png' alt='ho' height='80' width='80'>"+"<i>" + user + "</i><br>" +msg + "<br><b>" + "$"+amount + "</b><br><button type='submit' value='claim'>CLAIM</button>";
+          var html ="USER:<i>" + user + "</i><br>" + msg + "<br><b>" + "$"+ amount + "</b><br><button type='submit' value='ACCEPT OFFER'>ACCEPT OFFER</button>";
           var marker = new google.maps.Marker({
             map: map,
             position: point,
