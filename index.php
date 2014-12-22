@@ -21,18 +21,16 @@
 
 <body>
 
-<div id="nav">
+<div class="navbar navbar-inverse">
     <h1>RVLVR</h1>
-    <a href="http://papyrustigris.com/hooker/index.html" class="glyphicon glyphicon-tree-conifer"></a>
+    <a href="" class="glyphicon glyphicon-tree-conifer"></a>
 </div>
 	 
 <div id="map-canvas"></div>
     	
 <div id="post-map">
     <form action="insert.php" method="post" id="usrform">
-    	
     	<br>
-    	
   		<div id="coords"></div>	
 	    <input type="text" name="user" placeholder="name">
 	    <textarea name="msg" form="usrform" placeholder="enter message here..."></textarea>
@@ -41,7 +39,6 @@
 	    <input type="text" name="amount" placeholder="amount">
 	    <br>
 	    <input type="submit" class="btn btn-lg btn-danger">
-    		
     </form>
 </div>
 

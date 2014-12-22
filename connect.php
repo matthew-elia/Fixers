@@ -1,12 +1,12 @@
 <?php
 
-$username="papyrust";
-$password="Lemongate8x*";
-$database="papyrust_bounty";
+$username="papyrustigris";
+$password="";
+$database="c9";
 
-$connection=mysqli_connect("localhost", $username, $password, $database);
+$connection=mysqli_connect('127.0.0.1', $username, $password, $database);
 
 if(!$connection)
-{die("could not connecct" . mysqli_error());}
+{die("could not connect" . mysqli_error());}
 
 ?>

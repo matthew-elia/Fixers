@@ -1,8 +1,8 @@
 <?php
-$con=mysqli_connect('localhost','papyrust','Lemongate8x*','papyrust_bounty');
+$con=mysqli_connect('127.0.0.1','papyrustigris','','c9');
 
 if(!$con)
-{die("could not connecct" . mysqli_error());}
+{die("could not connect" . mysqli_error());}
 $user = mysqli_real_escape_string($con, $_POST['user']);
 $msg = mysqli_real_escape_string($con, $_POST['msg']);
 $lat = mysqli_real_escape_string($con, $_POST['lat']);
@@ -15,8 +15,15 @@ VALUES ('$user','$msg', '$lat', '$lng' ,'$address', '$amount')";
 
 if (!mysqli_query($con,$sql)) {
   die('Error: ' . mysqli_error($con));
-}
+}else{
 echo "1 record added";
+}
 
 mysqli_close($con);
 ?>
+
+<script type="text/javascript">
+    setTimeout(function () {
+        window.location = "https://handyman-papyrustigris.c9.io/nycexample.html";
+    },5000);
+</script>
