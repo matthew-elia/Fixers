@@ -1,5 +1,5 @@
 <?php
-require("connect.php");
+require("config/connect.php");
 
 // Start XML file, create parent node
 

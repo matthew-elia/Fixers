@@ -1,5 +1,8 @@
 <?php
-$con=mysqli_connect('127.0.0.1','papyrustigris','','c9');
+
+require("config/connect.php");
+
+$con=mysqli_connect('127.0.0.1', $username, , $password);
 
 if(!$con)
 {die("could not connect" . mysqli_error());}
